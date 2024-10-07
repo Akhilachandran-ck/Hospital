@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "hospital_name": "N.S.S Medical Mission Hospital",
+    "patient_count": 1000,
+    "hospital_location": "Pandalam"
+  },
+  {
+    "id": 2,
+    "hospital_name": "Amrita Hospital",
+    "patient_count": 10000,
+    "hospital_location": "Kochi"
+  },
+  {
+    "id": 3,
+    "hospital_name": "Believers Church Medical Hospital",
+    "patient_count": 8500,
+    "hospital_location": "Thiruvalla"
+  },
+  {
+    "id": 4,
+    "hospital_name": "Sunrise Hospital",
+    "patient_count": 5000,
+    "hospital_location": "Kochi"
+  },
+  {
+    "id": 5,
+    "hospital_name": "Lakeshore Hospital",
+    "patient_count": 9000,
+    "hospital_location": "Kochi"
+  },
+  {
+    "id": 6,
+    "hospital_name": "Rajagiri Hospital",
+    "patient_count": 8000,
+    "hospital_location": "Ernakulam"
+  },
+  {
+    "id": 7,
+    "hospital_name": "Aswini Hospital",
+    "patient_count": 6000,
+    "hospital_location": "Thrissur"
+  },
+  {
+    "id": 8,
+    "hospital_name": "Cosmopolitan Hospital Pvt.Ltd",
+    "patient_count": 9000,
+    "hospital_location": "Thiruvananthapuram"
+  },
+  {
+    "id": 9,
+    "hospital_name": "Bishop benziger hospital",
+    "patient_count": 9550,
+    "hospital_location": "Kollam"
+  },
+  {
+    "id": 10,
+    "hospital_name": "St. Joseph's Mission Hospital",
+    "patient_count": 7000,
+    "hospital_location": "Anchal"
+  }
+]
